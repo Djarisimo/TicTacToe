@@ -1,0 +1,6 @@
+# TicTacToe
+
+This app contains Register page with Username, Email, Password and Phone fields. The Email and Password fields are required and password must be 6 or more characters.
+When we create our account we go to our Login page and enter our Email and Password to log in our account. If we go to the Login page without having one we can click on "Create Account" and make one. If we forgot our password we can change it by clicking "Forgot password" and enter our email to receive reset link.
+When we log in in our account we can see our Profile page.To verity the account we click on "Verify" and it will send a link to our email for verification. If we want to change some information we can click on "Change profile" and change our Fullname, Email and Phone. If we want to reset our password we can click on "Reset Password" and change it. To logout from the account we click on "Logout" button and it redirect us to the Login page.
+To play the game we have to make registration and log in in our account. We click on "TicTacToe" button to start the game. The game contains "Reset" button to reset the whole game and statistics and "Back" button to redirect back to profile page. The game is for two players who play against each other.
